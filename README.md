@@ -93,3 +93,15 @@
   `./Ore Randomizer`
 
 - This will generate the files you need.
+
+---
+
+### Notes
+
+OnPlanetOres.Add(new PlanetOreDef(Ores.NickelOre, 10, 150, 20, 9));
+
+- Ore Type
+- Min Amount
+- Max Amount
+- Change of Having Ore
+- Max Flower Size
